@@ -1,0 +1,26 @@
+# Cloned sector repos (local working copies, not submodules)
+kizo-food/
+kizo-beauty/
+kizo-auto/
+kizo-retail/
+kizo-grocery/
+kizo-health/
+kizo-fitness/
+kizo-professional/
+kizo-home/
+kizo-hospitality/
+kizo-partners/
+kizo-tools/
+kizo-brand/
+getkizo.com/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
