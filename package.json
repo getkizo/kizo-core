@@ -1,0 +1,7 @@
+{
+  "name": "@getkizo/kizo-core",
+  "version": "0.0.1",
+  "description": "Kernel: event bus, module registry, shared domain types, and design tokens",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
