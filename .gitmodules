@@ -1,0 +1,3 @@
+[submodule "kizo-food"]
+	path = kizo-food
+	url = https://github.com/getkizo/kizo-food.git

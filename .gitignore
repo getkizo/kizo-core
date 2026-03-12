@@ -1,5 +1,5 @@
 # Cloned sector repos (local working copies, not submodules)
-kizo-food/
+# Note: kizo-food is registered as a git submodule — not listed here
 kizo-beauty/
 kizo-auto/
 kizo-retail/
